@@ -1,0 +1,19 @@
+
+h2
+{
+    color: darkmagenta;
+}
+h1,p{
+    color: brown; font-size: x-large;
+} 
+
+a[href="https://www.google.co.in/"]{
+    color: red;
+}
+
+button{
+    color: white;
+    background-color: black;
+}
+
+h1:hover{color: palevioletred;}
