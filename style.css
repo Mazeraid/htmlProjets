@@ -1,0 +1,17 @@
+
+    button:hover{
+        color:yellow; background-color: black;
+    }
+    button:visited{
+        color: white; background-color: blue;
+    }
+    h2,p{font-size: x-large;}
+
+    h1{color: brown;}
+    #apple{
+        font-weight: bold;
+       background-color: black;
+       color: yellow;
+    }
+    *{align-items: center;}
+    
