@@ -8,10 +8,14 @@
     h2,p{font-size: x-large;}
 
     h1{color: brown;}
-    #apple{
+   /* #apple{
         font-weight: bold;
        background-color: black;
        color: yellow;
     }
-    *{align-items: center;}
+    *{align-items: center;}*/
+html,body{
+    text-align: center;
+    padding-left: 300px;
+}
     
